@@ -1,5 +1,5 @@
 {
-  "name": "weinx-jira-ticket-gitlab-tracker",
+  "name": "jira-ticket-gitlab-tracker",
   "displayName": "JIRA GitLab Ticket Tracker",
   "description": "Track whether a JIRA ticket has been included in a Git commit and promoted via a GitLab tag or release.",
   "version": "1.0.0",

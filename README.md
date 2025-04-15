@@ -1,4 +1,4 @@
-# weinx-jira-ticket-gitlab-tracker
+# jira-ticket-gitlab-tracker
 
 A simple yet powerful **Visual Studio Code extension** that helps you track whether a JIRA ticket has been committed in Git, and whether it has been included in any release tag or GitLab deployment.
 
@@ -25,8 +25,8 @@ A simple yet powerful **Visual Studio Code extension** that helps you track whet
 ### Manual from Source:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/weinx/weinx-jira-ticket-gitlab-tracker.git
-   cd weinx-jira-ticket-gitlab-tracker
+   git clone https://github.com/pabloweinx/jira-ticket-gitlab-tracker.git
+   cd jira-ticket-gitlab-tracker
    ```
 2. Install dependencies (if needed)
 3. Run VS Code in dev mode:
@@ -37,7 +37,7 @@ A simple yet powerful **Visual Studio Code extension** that helps you track whet
 
 ### From VSIX:
 ```bash
-code --install-extension weinx-jira-ticket-gitlab-tracker-*.vsix
+code --install-extension jira-ticket-gitlab-tracker-*.vsix
 ```
 
 ## 📄 License

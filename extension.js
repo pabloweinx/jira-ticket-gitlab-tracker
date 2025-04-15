@@ -1,4 +1,4 @@
-// 📦 VS Code Extension: weinx-jira-ticket-gitlab-tracker
+// 📦 VS Code Extension: jira-ticket-gitlab-tracker
 // Description: Track JIRA ticket status through Git commits and GitLab tags/releases
 
 const vscode = require('vscode');

@@ -1,0 +1,23 @@
+# VS Code extension defaults
+node_modules/
+.vscode/
+dist/
+*.vsix
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+yarn-debug.log*
+npm-debug.log*
+
+# Optional cache
+*.tsbuildinfo
+
+# Extension packaging
+*.tgz
+out/
+
+.history
