@@ -1,0 +1,25 @@
+{
+  "name": "weinx-jira-ticket-gitlab-tracker",
+  "displayName": "JIRA GitLab Ticket Tracker",
+  "description": "Track whether a JIRA ticket has been included in a Git commit and promoted via a GitLab tag or release.",
+  "version": "1.0.0",
+  "publisher": "pabloweinx",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "activationEvents": [
+    "onCommand:weinxJiraTracker.checkTicket"
+  ],
+  "main": "extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "weinxJiraTracker.checkTicket",
+        "title": "Check JIRA Ticket in GitLab Releases"
+      }
+    ]
+  },
+  "categories": ["Other"],
+  "scripts": {},
+  "dependencies": {}
+}
